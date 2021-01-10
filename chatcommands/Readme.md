@@ -1,4 +1,4 @@
-Edit the config.lua 
+Edit only the config.lua 
 
 Please do Not edit the code unless you know what are you doing!
 
