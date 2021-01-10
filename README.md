@@ -1,2 +1,2 @@
 # FiveM-Chatcommands
-My first plugin!
+My first Script!
